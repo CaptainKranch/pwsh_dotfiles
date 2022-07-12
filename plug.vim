@@ -28,5 +28,7 @@ if has("nvim")
 
   Plug 'github/copilot.vim'
 
+  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+
  endif
 call plug#end()
