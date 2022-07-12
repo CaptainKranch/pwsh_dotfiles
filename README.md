@@ -1,10 +1,12 @@
-# dotfiles
+# Pictures 
 
 ![clipboard.png](./images/v5HPgt2Xj-clipboard.png)
 ![clipboard.png](./images/rHI7F-r9l-clipboard.png)
-![clipboard.png](./images9T1rfcohR-clipboard.png)
-![clipboard.png](./imgaesG21B6x2RQ-clipboard.png)
-![clipboard.png](./imagesY0J8hqt7t-clipboard.png)
+![clipboard.png](./images/9T1rfcohR-clipboard.png)
+![clipboard.png](./imgaes/G21B6x2RQ-clipboard.png)
+![clipboard.png](./images/Y0J8hqt7t-clipboard.png)
+
+Neovim in windows using Lua.
 
 Huge thanks to:
 
